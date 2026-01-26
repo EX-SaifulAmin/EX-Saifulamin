@@ -27,7 +27,7 @@
 
 ### ⚔️ Codewars Stats
 <p>
-  <img src="https://www.codewars.com/users/EX-Saifulamin/badges/large" />
+  <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" />
 </p>
 
 ---
