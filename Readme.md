@@ -23,13 +23,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EX-Saifulamin&show_icons=true&theme=tokyonight" />
 </p>
 
+
 ---
 
 ### ⚔️ Codewars Stats
 <p>
-  <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" />
+  <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" /></p>
   
-</p>
+  [![Github Readme Codewars](https://codewars-stats-ignacio-cuatra.vercel.app/?username=EX-Saifulamin)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ---
 
