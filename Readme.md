@@ -20,14 +20,14 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EX-Saifulamin&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚔️ Codewars Stats
 <p>
-  <img src="https://www.codewars.com/users/USERNAME_CODEWARS/badges/large" />
+  <img src="https://www.codewars.com/users/EX-Saifulamin/badges/large" />
 </p>
 
 ---
