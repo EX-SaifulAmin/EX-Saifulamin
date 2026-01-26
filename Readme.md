@@ -27,7 +27,8 @@
 
 ### ⚔️ Codewars Stats
 <p>
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=EX-Saifulamin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EX-Saifulamin
+https://www.codewars.com/users/EX-Saifulamin/badges/large" />
 </p>
 
 ---
