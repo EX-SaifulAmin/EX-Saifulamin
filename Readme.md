@@ -1,4 +1,4 @@
-yup<h1 align="center">Hi 👋, I'm Dhope</h1>
+<h1 align="center">Hi 👋, I'm EX-Saifulamin</h1>
 <h3 align="center">Frontend Developer in progress 🚀</h3>
 
 ---
@@ -27,14 +27,13 @@ yup<h1 align="center">Hi 👋, I'm Dhope</h1>
 
 ### ⚔️ Codewars Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EX-Saifulamin
-"/><img src ="https://www.codewars.com/users/EX-Saifulamin/badges/large" />
+  <img src="https://www.codewars.com/users/EX-Saifulamin/badges/large" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-- GitHub: https://github.com/USERNAMEKAMU
+- GitHub: https://github.com/EX-Saifulamin
 
 ---
 
