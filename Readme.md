@@ -30,7 +30,7 @@
 <p>
   <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" /></p>
   
-  [![Github Readme Codewars](https://codewars-stats-ignacio-cuatra.vercel.app/?username=EX-Saifulamin)](https://github.com/ignacio-cuadra/github-readme-codewars)
+  [![Github Readme Codewars](https://codewars-stats-ignacio-cuatra.vercel.app/?username=EX-SaifulAmin)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ---
 
