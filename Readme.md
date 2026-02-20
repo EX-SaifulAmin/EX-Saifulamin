@@ -31,6 +31,8 @@
   <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" />
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=EX-SaifulAmin" />
 </p>
+### ⚔️ Github Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalfin9&" alt="muhammadalfin9" /></p>
 
 ---
 
