@@ -18,15 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EX-Saifulamin&show_icons=true&theme=tokyonight" />
-</p>
-
-
----
-
 ### ⚔️ Codewars Stats
 <p>
   <img src="https://www.codewars.com/users/EX-SaifulAmin/badges/large" />
